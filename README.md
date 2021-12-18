@@ -2,7 +2,7 @@ Hey 👋️ My name is Wayne. I'm a Principle Software Engineer at [GoDaddy](htt
 
 #### 📌️ Zero downtime deployments with Go and Kubernetes
 
-> "If you’re writing Go then you’re probably aware that graceful shutdown was added to the http package in 1.8. The HTTP server also adds support for graceful shutdown, allowing servers to minimize downtime by shutting down only after serving all requests that are in flight. — Go 1.8 is released Similarly, If you’re using Kubernetes then I’m sure you’re aware of, and hopefully using rolling updates for your deployments." — _[Continue reading on my blog...](https://wayne.cloud/graceful-shutdown/)_
+> "If you’re writing Go then you’re probably aware that graceful shutdown was added to the http package in 1.8. The HTTP server also adds support for graceful shutdown, allowing servers to minimize downtime by shutting down only after serving all requests that are in flight. Similarly, If you’re using Kubernetes then I’m sure you’re aware of, and hopefully using rolling updates for your deployments." — _[Continue reading on my blog...](https://wayne.cloud/graceful-shutdown/)_
 
 #### 🕑️ The Most Exciting Feature of Go 1.18
 
