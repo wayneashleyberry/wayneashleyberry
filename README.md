@@ -1,6 +1,4 @@
-# Hey, my name is Wayne
-
-I am a Principle Software Engineer at [GoDaddy](https://www.godaddy.com/) working on [Studio](https://studio.godaddy.com/). Previously, I co-founded [Next](https://wearenext.co.za/) with [Shawn](https://shawnroos.com/) and functioned as the Lead Developer & CTO. You can reach me on [Twitter](https://twitter.com/waynethebrain) or [LinkedIn](https://www.linkedin.com/in/wayne-ashley-berry/). I share open-source projects here and have some old creative work up on [Dribbble](https://dribbble.com/wayne).
+Hey 👋️ My name is Wayne. I'm a Principle Software Engineer at [GoDaddy](https://www.godaddy.com/) working on [Studio](https://studio.godaddy.com/) — an app formerly known as [Over](https://techcrunch.com/2020/01/29/godaddy-acquires-over/). Previously, I co-founded [Next](https://wearenext.co.za/) with [Shawn](https://shawnroos.com/) and functioned as the Lead Developer & CTO. You can reach me on [Twitter](https://twitter.com/waynethebrain) or [LinkedIn](https://www.linkedin.com/in/wayne-ashley-berry/). I share open-source projects here and have some old creative work up on [Dribbble](https://dribbble.com/wayne).
 
 #### 📌️ Zero downtime deployments with Go and Kubernetes
 
