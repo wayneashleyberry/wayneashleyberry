@@ -7,3 +7,5 @@ Hey 👋️ My name is Wayne. I'm a Principle Software Engineer at [GoDaddy](htt
 #### 🕑️ The Most Exciting Feature of Go 1.18
 
 > "It’s been 5 years since I wrote about the most exciting feature of Go 1.8 and there have been significant improvements in the language, toolchain and ecosystem since then. I’m not going to cover any of that… Go 1.18 is around the corner, being set to release in February of 2022, and the release notes already describe a very exciting, albeit small, feature. Go 1.18 brings generics, fuzz testing, improved support for IP address types and faster image drawing operations amongst other things." — _[Continue reading on my blog...](https://wayne.cloud/buildvcs/)_
+
+<a rel="me" href="https://mstdn.social/@wayneberry">Follow me on Mastodon</a>
